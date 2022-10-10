@@ -102,14 +102,14 @@ body{
 .conteudo-secundario-titulo{
     border-top: 0.4px solid black;
     padding-top: 30px;
-    font: bold 1.5em 'Sarala', sans-serif;
+    font: bold 1.6em 'Sarala', sans-serif;
 }
 
 .conteudo-secundario-lista{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    font: normal 1.25em 'Sarala', sans-serif;
+    font: normal 1.4em 'Sarala', sans-serif;
 }
 
 .rodape{
