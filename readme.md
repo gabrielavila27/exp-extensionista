@@ -2,7 +2,7 @@
 
 > Landing page
 
-<img src="imagens\screenshot_fullsize.png" alt=" Screenshot da landing page do aplicativo Doe Agora.">
+<img src="imagens\screenshot_fullsize_short.png" alt=" Screenshot da landing page do aplicativo Doe Agora.">
 <br>
 <br>
 <p>Landing Page feita com o intuito de divulgar o projeto de extensão do grupo "Nerds da Computação", da Universidade Tiradentes-AL. O aplicativo de doações <strong>"Doe Agora"<strong>.</p>
