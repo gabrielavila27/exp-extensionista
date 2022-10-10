@@ -62,11 +62,11 @@ body{
 }
 
 .conteudo-principal-escrito-titulo{
-    font: 300 50px 'Poppins', sans-serif;
+    font: 300 3.2em 'Poppins', sans-serif;
 }
 
 .conteudo-principal-escrito-subtitulo{
-    font: normal 24px 'Sarala', sans-serif;
+    font: normal 1.6em 'Sarala', sans-serif;
 }
 
 .conteudo-principal-botao{
@@ -102,14 +102,14 @@ body{
 .conteudo-secundario-titulo{
     border-top: 0.4px solid black;
     padding-top: 30px;
-    font: bold 25px 'Sarala', sans-serif;
+    font: bold 1.5em 'Sarala', sans-serif;
 }
 
 .conteudo-secundario-lista{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    font: normal 16px 'Sarala', sans-serif;
+    font: normal 1.25em 'Sarala', sans-serif;
 }
 
 .rodape{
@@ -159,6 +159,14 @@ body{
     .conteudo-secundario-lista-item {
         font-size: 1.5em;
     }
+
+    .conteudo-secundario-titulo{
+        font-size: 1.3em;
+    }
+
+    .conteudo-secundario-lista{
+        font-size: 0.8em;
+    }
  }
 /* Tablet - 480px-768px */
 @media (max-width: 768px) {
@@ -187,6 +195,14 @@ body{
 
     .conteudo-principal-escrito {
         width: 30em;
+    }
+
+    .conteudo-secundario-titulo{
+        font-size: 1.3em;
+    }
+
+    .conteudo-secundario-lista{
+        font-size: 0.8em;
     }
 }
 
@@ -232,8 +248,16 @@ body{
         width: 60%;
         font-size: 1.3em;
     }
+
+    .conteudo-secundario-titulo{
+        font-size: 1.3em;
+    }
+
+    .conteudo-secundario-lista{
+        font-size: 0.7em;
+    }
 }
 
 
-/* #9FDD7C */
+
    
